@@ -17,6 +17,5 @@
 ## 📈 Goals
 - Build 5+ beginner Python projects in 2025
 - Get internships where I can work on real apps or games
-- Become the strong, skilled coder I know I can be 💪
 
 Thanks for visiting!
